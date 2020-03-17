@@ -1,0 +1,10 @@
+public class RetanguloPrincipal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Retangulo retangulo1 = new Retangulo (); //instanciando
+		retangulo1.CalcularArea(8, 20); //calculo
+		                //Apresentando valor
+			System.out.println("Retangulo depois de calclar a area " +retangulo1.Area);
+  }
+}
