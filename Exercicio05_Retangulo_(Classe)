@@ -1,0 +1,11 @@
+public class Retangulo { 
+	double Base; //atributos da classe
+	double Altura;
+	double Area;
+
+
+void CalcularArea(double Base, double Altura) {
+	Area = Base*Altura; //calculo
+
+  }
+}
